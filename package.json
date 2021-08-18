@@ -1,0 +1,23 @@
+{
+  "name": "json-the-cat-flex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briandlafond/json-the-cat-flex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briandlafond/json-the-cat-flex/issues"
+  },
+  "homepage": "https://github.com/briandlafond/json-the-cat-flex#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
